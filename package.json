@@ -1,0 +1,16 @@
+{
+  "name": "strivers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "array-duplicate-number": "nodemon ./arrays/array-duplicate-number.js",
+    "array-sort-0s-1s-2s": "nodemon ./arrays/array-sort-0s-1s-2s.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
